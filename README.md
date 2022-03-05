@@ -6,9 +6,9 @@ Kaggle-Courses-Computer-Vision
 -------
 
 
-1
-The Convolutional Classifier
+### 1 The Convolutional Classifier
 Create your first computer vision model with Keras.
+
 2
 Convolution and ReLU
 Discover how convnets create features with convolutional layers.
