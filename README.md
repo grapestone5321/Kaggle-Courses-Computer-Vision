@@ -9,9 +9,9 @@ Kaggle-Courses-Computer-Vision
 ### 1 The Convolutional Classifier
 Create your first computer vision model with Keras.
 
-2
-Convolution and ReLU
+### 2 Convolution and ReLU
 Discover how convnets create features with convolutional layers.
+
 3
 Maximum Pooling
 Learn more about feature extraction with maximum pooling.
