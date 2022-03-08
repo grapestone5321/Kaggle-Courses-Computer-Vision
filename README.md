@@ -15,9 +15,9 @@ Discover how convnets create features with convolutional layers.
 ### 3 Maximum Pooling
 Learn more about feature extraction with maximum pooling.
 
-4
-The Sliding Window
+### 4 The Sliding Window
 Explore two important parameters: stride and padding.
+
 5
 Custom Convnets
 Design your own convnet.
